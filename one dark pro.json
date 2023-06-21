@@ -41,7 +41,9 @@
             "back": "#282C34",
             "sfore": "#abb2bf",
             "sback": "#404859",
-            "insert": "#5c8bff"
+            "insert": "#5c8bff",
+            "line": "#495162",
+            "insertline": "#abb2bf"
         },
         "menu": {
             "bg": "#21252b",
